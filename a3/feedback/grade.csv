@@ -1,0 +1,2 @@
+Student Name,Build/Correctness Mark,Test Marks,Readme Marks,Total,Comments,
+j2striza,40,40,15,95,"I don’t know how your output_layer function worked without atomicAdd being explicitly used, unless += is compiled to atomicAdd nowadays. Be aware of threads writing to the same location, as it will cause garbage output that is hard to track down.",

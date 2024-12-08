@@ -1,0 +1,30 @@
+# separate-maps.md feedback
+Pull request title: 0.5/0.5
+Summary: 1/1
+Tech details: 1.5/1.5
+Correctness: .5/1.5
+- Did you test with different numbers of threads?
+- Not enough information provided
+Performance: .5/1.5
+- How many threads did you test with?
+-No performance information including results
+Clarity of exposition: .5/1.5
+-More Clear explanation
+- Lack of a meaningful separation of paragraphs
+- The report is poorly organized
+
+# concurrent-hashmap.md feedback
+Pull request title: 0.5/0.5
+Summary: 1/1
+Tech details: 1.5/1.5
+Correctness: .5/1.5
+- How many threads did you test with?
+- Not enough information provided
+Performance: .5/1.5
+- How many threads did you test with?
+-No performance information including results
+Clarity of exposition: .5/1.5
+-More Clear explanation
+- Lack of a meaningful separation of paragraphs
+- The report is poorly organized
+
