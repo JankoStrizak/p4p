@@ -1,6 +1,0 @@
-Title: 0.0/1.0 Title missing (-1.0)
-Summary: 3.0/3.0
-Tech Details: 6.0/8.0 Requires more explanation (-2.0)
-Correctness: 2.0/4.0 Requires more explanation (-2.0)
-Performance: 4.0/4.0
-Total: 15.0/20.0
